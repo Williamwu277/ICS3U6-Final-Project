@@ -17,6 +17,7 @@ You are allowed to choose between different maps—or just a randomly created on
 
 ## Instructions
 
+- For Mac run `javac NoNameGame.java` and then `java NoNameGame` in terminal after navigating to the folder
 - WASD to move
 - Mouse to aim and shoot
 - Space to go back to menu after a game is completed
