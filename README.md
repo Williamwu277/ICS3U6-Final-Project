@@ -1,4 +1,4 @@
-# Grade-11-Pre-AP-Computer-Science-Final
+# ICS3U6 Final Project 
 
 <span style="text-align:center">
 <img src="https://cdn.discordapp.com/attachments/495048386446360576/970807499504640000/Screen_Shot_2022-05-02_at_6.02.21_PM.png" width="505"/>
